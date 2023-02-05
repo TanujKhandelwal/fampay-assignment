@@ -3,7 +3,7 @@ cron.py file contains a cronjob that calls the youtube search api and stores the
 
 python3 cron.py
 
-main.py is the entry point for the flask application. To run the cron use the following command.
+main.py is the entry point for the flask application. To run the main file use the following command.
 
 python3 main.py
 
